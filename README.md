@@ -22,3 +22,11 @@ To learn Redux Tool Kit.
 #### What did I learn through the project?
 
 I learned how to use redux toolkit and redux toolkit folder structure / fundamental convention.
+
+#### Demo?
+
+Sorry, this is short project and not mine.
+So, I don't want to deploy site for the project.
+
+Thank you for reading.
+And, happy coding!!!
