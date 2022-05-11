@@ -7,7 +7,7 @@ This is Redux Toolkit Course with React in youtube channel.
 
 The course is good.
 
-But if you don't know redux fandamental,I think you can not understand.
+But if you don't know redux fandamental,I think you can not keep up the course.
 
 So, I highly recommend you should take [Code evolution React Redux Course](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) firstly.
 
