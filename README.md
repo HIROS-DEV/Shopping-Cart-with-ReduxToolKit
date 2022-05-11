@@ -2,7 +2,7 @@
 
 #### Project Overview
 
-This is React with Redux Toolkit Course in youtube channel.
+This is Redux Toolkit Course with React in youtube channel.
 [Youtube URL](https://www.youtube.com/watch?v=bbkBuqC1rU4)
 
 The course is good.
